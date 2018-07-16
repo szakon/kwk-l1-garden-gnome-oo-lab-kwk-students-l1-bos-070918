@@ -13,7 +13,7 @@ class GardenGnome
       puts "Hello humans,my name is #{name},I am #{age} years old."
     end
     def shout 
-      "GARLY!!!"
+      "GNARLY!!!"
     end
       
 end
