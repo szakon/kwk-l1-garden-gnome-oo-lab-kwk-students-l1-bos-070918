@@ -11,7 +11,11 @@ class GardenGnome
     end
     def introduce_self
       puts "Hello humans,my name is #{name},I am #{age} years old."
-  end
+    end
+    def shout 
+      "GARLY"
+    end
+      
 end
 GardenGnome.new
 
